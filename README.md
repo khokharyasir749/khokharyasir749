@@ -1,3 +1,4 @@
+<img width="1600" height="600" alt="Banner jpg" src="https://github.com/user-attachments/assets/18c90cf5-ddac-44b6-9232-b241b481d6af" />
 # 👋 Hi, I'm Yasir Shahzad
 
 <p align="center">
