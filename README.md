@@ -5,9 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Yasir%20Shahzad&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%">
 </p>
 
-<p align="center">
-  <b>💻 Computer Science Enthusiast | 👨‍💻 Aspiring Developer | 🚀 Lifelong Learner</b>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khokharyasir749&label=Profile%20Views&color=2563EB&style=for-the-badge">
