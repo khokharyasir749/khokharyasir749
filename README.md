@@ -1,5 +1,11 @@
 <img width="1600" height="600" alt="Banner jpg" src="https://github.com/user-attachments/assets/18c90cf5-ddac-44b6-9232-b241b481d6af" />
-# 👋 Hi, I'm Yasir Shahzad
+ <h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
+  Hi, I'm <span style="color: #38bdf8;">Yasir Shahzad</span>
+</h1>
+<p align="center">
+  <b>🚀 Full-Stack Developer & Problem Solver</b>
+</p>
 
 
 
