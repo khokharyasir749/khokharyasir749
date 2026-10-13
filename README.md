@@ -1,12 +1,9 @@
 <img width="1600" height="600" alt="Banner jpg" src="https://github.com/user-attachments/assets/18c90cf5-ddac-44b6-9232-b241b481d6af" />
  <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
- <p align="center">
-  <a href="https://github.com/khokharyasir749">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Yasir+Shahzad;Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Solutions+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</p>
-
+ <h1 align="center">
+  <code>&lt;Hello World /&gt; 👋 I'm Yasir Shahzad</code>
+</h1>
 
 
 <p align="center">
