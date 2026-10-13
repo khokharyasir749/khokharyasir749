@@ -1,9 +1,6 @@
 <img width="1600" height="600" alt="Banner jpg" src="https://github.com/user-attachments/assets/18c90cf5-ddac-44b6-9232-b241b481d6af" />
 # 👋 Hi, I'm Yasir Shahzad
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Yasir%20Shahzad&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%">
-</p>
 
 
 <p align="center">
